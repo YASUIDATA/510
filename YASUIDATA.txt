@@ -1,0 +1,1 @@
+vless://238e9508-f58e-40f9-8dec-4498473d2aba@5.104.80.188:24702?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20Slow-VDP%20510
